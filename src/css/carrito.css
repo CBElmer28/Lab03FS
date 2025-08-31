@@ -1,0 +1,20 @@
+.carrito-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  background-color: #f0f4f8;
+  text-align: center;
+}
+
+.carrito-title {
+  font-size: 2rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.carrito-message {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+}
